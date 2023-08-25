@@ -36,7 +36,7 @@ with open('data.csv', 'r', encoding='utf8') as csv_file:
             continue
 
         EMAIL_ADDRESS = "ayushgoyal.thomso@gmail.com"
-        EMAIL_PASSWORD = "your-key"
+        EMAIL_PASSWORD = "itxrffqjdaxaggww"
 
         contacts = [email1, email2, email3, email4]
 
